@@ -1,2 +1,1 @@
-# angularelements-loodcahq-fork-lopp7mur
-Created with WebComponents.dev
+# Angular 9 and Angular Elements Starter Kit

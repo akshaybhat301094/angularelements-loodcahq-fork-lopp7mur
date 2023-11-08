@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/akshaybhat301094.angularelements-loodcahq-fork-lopp7mur",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve HnYkW3VvVceEYcInKThA --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
